@@ -1,0 +1,14 @@
+{
+  "name": "csv-to-json-converter",
+  "version": "1.0.0",
+  "description": "Module 1 Assignmnet Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Szczerba",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8"
+  }
+}
